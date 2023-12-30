@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "CHEM 3410- Physical Chemistry: Quantum Mechanics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-fall-teaching-1
+venue: "University of Virginia, Chemistry"
+date: 2023-10-01
+location: "Charlottesville, Virginia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Mohan Shankar
 
-Heading 1
+Recommended "Prereqs"
 ======
 
-Heading 2
-======
-
-Heading 3
+General Advice
 ======
