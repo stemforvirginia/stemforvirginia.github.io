@@ -16,7 +16,7 @@ Link to Talk Schedule: [Here](https://docs.google.com/spreadsheets/d/1P5kv_iGW4J
 
 Current Leadership
 ======
-President: Me, Chemistry, 2024
+**President:** Me, Chemistry, 2024
 
 Pages
 ======
