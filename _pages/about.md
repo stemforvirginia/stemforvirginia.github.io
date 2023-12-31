@@ -10,7 +10,7 @@ redirect_from:
 
 Starting off as an idea for a peer-to-peer advising network, STEM for Virginia's main focus has shifted slightly to emphasize pedagogy and public speaking. It is very likely that, at some point in life, every technical profession will have to communicate results and ideas with someone who may not be in the field. Conversely, you might find yourself as the recipient of information you may not be able to understand and decode immediately. 
 
-As such, the group holds weekly, hour-long meetings in which two presenters give talks ~20 minutes long before fielding questions for ~10 minutes. Any further questions can be asked later. Outside of these talks, it's my hopes that members can contribute to the "Teaching" and "Reviews" pages to field questions about classes you've taken while providing honest, objective feedback.
+As such, the group holds weekly, roughly hour-long meetings in which a presenter gives a talk for ~20-30 minutes before fielding questions. Outside of these talks, it's my hopes that members can contribute to the "Teaching" and "Reviews" pages to field questions about classes you've taken while providing honest, objective feedback.
 
 Current Leadership
 ======
