@@ -12,6 +12,8 @@ Starting off as an idea for a peer-to-peer advising network, STEM for Virginia's
 
 As such, the group holds weekly, roughly hour-long meetings in which a presenter gives a talk for ~20-30 minutes before fielding questions. Outside of these talks, it's my hopes that members can contribute to the "Teaching" and "Reviews" pages to field questions about classes you've taken while providing honest, objective feedback.
 
+Link to Talk Schedule: [Here](https://docs.google.com/spreadsheets/d/1P5kv_iGW4J3M48uieL8F_mYr1qCv94rb85-Va7bmnqI/edit?usp=sharing)
+
 Current Leadership
 ======
 President: Me, Chemistry, 2024
