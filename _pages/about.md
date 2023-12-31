@@ -14,6 +14,8 @@ As such, the group holds weekly, roughly hour-long meetings in which a presenter
 
 Link to Talk Schedule: [Here](https://docs.google.com/spreadsheets/d/1P5kv_iGW4J3M48uieL8F_mYr1qCv94rb85-Va7bmnqI/edit?usp=sharing)
 
+Welcome Slides: [Here](http://stemforvirginia.github.io/index.html)
+
 Current Leadership
 ======
 **President:** Me, Chemistry, 2024
