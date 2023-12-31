@@ -24,6 +24,6 @@ Pages
 
 ***Teaching:*** Members in teaching positions (i.e. TA's) will post their thoughts on a course as well as recommendations for it.
 
-***Portfolio:*** Members who create something for their talk or otherwise can post their work here. This can include code, results from an experiment, etc.
+***Member Highlight:*** Members highlight themselves and interests here.
 
-***Blog Posts:*** I will figure out how to rename this page. Functionally, honest reviews of STEM courses will be posted here. It's often annoying to only see numeric values without context on sites like CourseForum, so the hope of this page is to alleviate vagueness.
+***Reviews:*** Honest reviews of STEM courses will be posted here. It's often impossible to make informed decisions about classes based solely off of numeric values without context on sites like CourseForum, so the hope of this page is to alleviate vagueness.
