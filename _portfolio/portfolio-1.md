@@ -1,6 +1,6 @@
 ---
 title: "Mohan"
-excerpt: "Major: Chemistry 
+excerpt: "Major: Chemistry"
 collection: portfolio
 ---
 
