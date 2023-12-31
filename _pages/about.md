@@ -12,7 +12,7 @@ Starting off as an idea for a peer-to-peer advising network, STEM for Virginia's
 
 As such, the group holds weekly, hour-long meetings in which two presenters give talks ~20 minutes long before fielding questions for ~10 minutes. Any further questions can be asked later. Outside of these talks, it's my hopes that members can contribute to the "Teaching" and "Blog Posts" pages to field questions about classes you've taken while providing honest, objective feedback.
 
-[test slides](http://stemforvirginia.github.io/files/presentation.md)
+[test slides](http://stemforvirginia.github.io/files/test.md)
 
 Current Leadership
 ======
