@@ -12,9 +12,9 @@ Starting off as an idea for a peer-to-peer advising network, ***STEM for Virgini
 
 As such, the group holds weekly meetings in which a presenter gives a talk for ~30 minutes before fielding questions about their presentation. The total duration of each meeting is shorter than an hour to respect members' time. Outside of these talks, members can contribute to the "Teaching" and "Reviews" pages to field questions about classes they've taken while providing honest, objective feedback.
 
-Link to Talk Schedule: [Here](https://docs.google.com/spreadsheets/d/1P5kv_iGW4J3M48uieL8F_mYr1qCv94rb85-Va7bmnqI/edit?usp=sharing)
-
 Welcome Slides: [Here](http://stemforvirginia.github.io/welcome/welcome.html)
+
+Why should you care about communication? A response [here.](Welcome Slides: [Here](http://stemforvirginia.github.io/welcome/why.html)
 
 Current Leadership
 ======
