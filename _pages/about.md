@@ -14,7 +14,7 @@ As such, the group holds weekly meetings in which a presenter gives a talk for ~
 
 Welcome Slides: [Here](http://stemforvirginia.github.io/welcome/welcome.html)
 
-Why should you care about communication? A response [here.](Welcome Slides: [Here](http://stemforvirginia.github.io/welcome/why.html)
+Why Communcation? Slides: [Here](http://stemforvirginia.github.io/welcome/why.html)
 
 Current Leadership
 ======
